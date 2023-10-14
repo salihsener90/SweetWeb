@@ -1,6 +1,4 @@
-<h2>SweetWeb Projesi</h2>
-
-Proje içeriğinde transition, box-shadow vb. bazı özellikler bulunmaktadır.
+<h2>SweetWeb Project</h2>
 
 <h3>Kullanılan Teknolojiler</h3>
 
